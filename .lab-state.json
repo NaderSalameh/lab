@@ -7,7 +7,12 @@
   "repo": "NaderSalameh/lab",
   "mainRulesetId": 25828866,
   "mainRulesetName": "lab-main-protection",
-  "packageDeployerScaffolded": true,
-  "dataModelScaffolded": true,
-  "columnsScaffolded": true
+  "devEnvUrl": "https://wm-dev-4852.crm.dynamics.com",
+  "devEnvId": "4484ce34-6d34-eada-93a1-595481e4b203",
+  "devOrgId": "e76806a6-98d0-f111-be88-7ced8d714604",
+  "devProfile": "dev",
+  "testEnvUrl": "https://wm-test-4852.crm.dynamics.com",
+  "testEnvId": "7da4f376-bb5d-e756-b952-289c29587d1c",
+  "testOrgId": "2a508762-9dd0-f111-be87-6045bd06d92f",
+  "testProfile": "test"
 }
