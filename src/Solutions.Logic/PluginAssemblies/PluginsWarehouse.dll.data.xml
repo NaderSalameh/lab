@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PluginAssembly FullName="PluginsWarehouse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=7339fd263a99f562" PluginAssemblyId="53f82788-feaa-489a-bc18-10c175d39d12" CustomizationLevel="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <IsolationMode>2</IsolationMode>
+  <SourceType>0</SourceType>
+  <FileName>/PluginAssemblies/PluginsWarehouse.dll</FileName>
+  <PluginTypes>
+    <PluginType PluginTypeId="2ccce6aa-3bd1-47c0-b836-c996184be65e" Name="Plugins.Warehouse.SubtractQuantityPlugin" AssemblyQualifiedName="Plugins.Warehouse.SubtractQuantityPlugin, PluginsWarehouse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=7339fd263a99f562">
+      <FriendlyName>ef02ef65-ad3b-44df-a4df-3d534b80fdf8</FriendlyName>
+    </PluginType>
+    <PluginType PluginTypeId="7d147a0b-b285-492b-a61e-5894183b7527" Name="Plugins.Warehouse.ValidateWarehouseTransactionPlugin" AssemblyQualifiedName="Plugins.Warehouse.ValidateWarehouseTransactionPlugin, PluginsWarehouse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=7339fd263a99f562">
+      <FriendlyName>52e3fac2-2e83-45a3-94c6-3a655c27b4c0</FriendlyName>
+    </PluginType>
+  </PluginTypes>
+</PluginAssembly>
